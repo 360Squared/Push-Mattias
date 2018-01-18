@@ -1,10 +1,7 @@
 Nieuwe Tech 
 ===========
 
-Gedurende deze week heb ik de volgende nieuwe technieken en/of frameworks:
+Gedurende deze week heb ik de volgende nieuwe technieken en/of frameworks onderzocht:
 
-1. [Push/lokale Notificaties](https://www.urbanairship.com/push-notifications-explained)  
-Binnen de opdracht zullen opdrachtgevers en werkzoekenden op de hoogte van een te ondernemen actie. Omdat een telefoon een device is die door de doelgroep wordt meegedragen, is een goed idee om ook deze techniek te onderzoeken.
-
-2. [Social Share iOS](https://www.appcoda.com/social-framework-introduction)  
-Voor interessante vacatures kan het gewenst zijn om deze te delen met kennissen. Binnen iOS wordt de het delen van data altijd op een standaard manier afgehandeld. Hoe gebeurd dit?
+1. [Geofencing](http://academy.pulsatehq.com/7-things-about-geofencing)  
+Vanuit de opdrachtgever en de opdrachtomschrijving is er een wens om gebruik te maken van GPS. Binnen het square finder project kan het wenselijk zijn om een melding te geven wanneer je in de buurt komt van een gps punt (Vacature). Geofencing kan hierin een oplossing zijn.

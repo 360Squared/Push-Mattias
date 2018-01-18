@@ -1,0 +1,557 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		719554F420101E2A00F781B3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 719554F320101E2A00F781B3 /* AppDelegate.swift */; };
+		719554F620101E2A00F781B3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 719554F520101E2A00F781B3 /* ViewController.swift */; };
+		719554F920101E2A00F781B3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 719554F720101E2A00F781B3 /* Main.storyboard */; };
+		719554FB20101E2A00F781B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 719554FA20101E2A00F781B3 /* Assets.xcassets */; };
+		719554FE20101E2A00F781B3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 719554FC20101E2A00F781B3 /* LaunchScreen.storyboard */; };
+		7195550920101E2A00F781B3 /* recognizeForceTouchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7195550820101E2A00F781B3 /* recognizeForceTouchTests.swift */; };
+		7195551420101E2A00F781B3 /* recognizeForceTouchUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7195551320101E2A00F781B3 /* recognizeForceTouchUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		7195550520101E2A00F781B3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 719554E820101E2A00F781B3 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 719554EF20101E2A00F781B3;
+			remoteInfo = recognizeForceTouch;
+		};
+		7195551020101E2A00F781B3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 719554E820101E2A00F781B3 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 719554EF20101E2A00F781B3;
+			remoteInfo = recognizeForceTouch;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		719554F020101E2A00F781B3 /* recognizeForceTouch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = recognizeForceTouch.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		719554F320101E2A00F781B3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		719554F520101E2A00F781B3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		719554F820101E2A00F781B3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		719554FA20101E2A00F781B3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		719554FD20101E2A00F781B3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		719554FF20101E2A00F781B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7195550420101E2A00F781B3 /* recognizeForceTouchTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = recognizeForceTouchTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7195550820101E2A00F781B3 /* recognizeForceTouchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = recognizeForceTouchTests.swift; sourceTree = "<group>"; };
+		7195550A20101E2A00F781B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7195550F20101E2A00F781B3 /* recognizeForceTouchUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = recognizeForceTouchUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7195551320101E2A00F781B3 /* recognizeForceTouchUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = recognizeForceTouchUITests.swift; sourceTree = "<group>"; };
+		7195551520101E2A00F781B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		719554ED20101E2A00F781B3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7195550120101E2A00F781B3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7195550C20101E2A00F781B3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		719554E720101E2A00F781B3 = {
+			isa = PBXGroup;
+			children = (
+				719554F220101E2A00F781B3 /* recognizeForceTouch */,
+				7195550720101E2A00F781B3 /* recognizeForceTouchTests */,
+				7195551220101E2A00F781B3 /* recognizeForceTouchUITests */,
+				719554F120101E2A00F781B3 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		719554F120101E2A00F781B3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				719554F020101E2A00F781B3 /* recognizeForceTouch.app */,
+				7195550420101E2A00F781B3 /* recognizeForceTouchTests.xctest */,
+				7195550F20101E2A00F781B3 /* recognizeForceTouchUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		719554F220101E2A00F781B3 /* recognizeForceTouch */ = {
+			isa = PBXGroup;
+			children = (
+				719554F320101E2A00F781B3 /* AppDelegate.swift */,
+				719554F520101E2A00F781B3 /* ViewController.swift */,
+				719554F720101E2A00F781B3 /* Main.storyboard */,
+				719554FA20101E2A00F781B3 /* Assets.xcassets */,
+				719554FC20101E2A00F781B3 /* LaunchScreen.storyboard */,
+				719554FF20101E2A00F781B3 /* Info.plist */,
+			);
+			path = recognizeForceTouch;
+			sourceTree = "<group>";
+		};
+		7195550720101E2A00F781B3 /* recognizeForceTouchTests */ = {
+			isa = PBXGroup;
+			children = (
+				7195550820101E2A00F781B3 /* recognizeForceTouchTests.swift */,
+				7195550A20101E2A00F781B3 /* Info.plist */,
+			);
+			path = recognizeForceTouchTests;
+			sourceTree = "<group>";
+		};
+		7195551220101E2A00F781B3 /* recognizeForceTouchUITests */ = {
+			isa = PBXGroup;
+			children = (
+				7195551320101E2A00F781B3 /* recognizeForceTouchUITests.swift */,
+				7195551520101E2A00F781B3 /* Info.plist */,
+			);
+			path = recognizeForceTouchUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		719554EF20101E2A00F781B3 /* recognizeForceTouch */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7195551820101E2A00F781B3 /* Build configuration list for PBXNativeTarget "recognizeForceTouch" */;
+			buildPhases = (
+				719554EC20101E2A00F781B3 /* Sources */,
+				719554ED20101E2A00F781B3 /* Frameworks */,
+				719554EE20101E2A00F781B3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = recognizeForceTouch;
+			productName = recognizeForceTouch;
+			productReference = 719554F020101E2A00F781B3 /* recognizeForceTouch.app */;
+			productType = "com.apple.product-type.application";
+		};
+		7195550320101E2A00F781B3 /* recognizeForceTouchTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7195551B20101E2A00F781B3 /* Build configuration list for PBXNativeTarget "recognizeForceTouchTests" */;
+			buildPhases = (
+				7195550020101E2A00F781B3 /* Sources */,
+				7195550120101E2A00F781B3 /* Frameworks */,
+				7195550220101E2A00F781B3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7195550620101E2A00F781B3 /* PBXTargetDependency */,
+			);
+			name = recognizeForceTouchTests;
+			productName = recognizeForceTouchTests;
+			productReference = 7195550420101E2A00F781B3 /* recognizeForceTouchTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		7195550E20101E2A00F781B3 /* recognizeForceTouchUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7195551E20101E2A00F781B3 /* Build configuration list for PBXNativeTarget "recognizeForceTouchUITests" */;
+			buildPhases = (
+				7195550B20101E2A00F781B3 /* Sources */,
+				7195550C20101E2A00F781B3 /* Frameworks */,
+				7195550D20101E2A00F781B3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7195551120101E2A00F781B3 /* PBXTargetDependency */,
+			);
+			name = recognizeForceTouchUITests;
+			productName = recognizeForceTouchUITests;
+			productReference = 7195550F20101E2A00F781B3 /* recognizeForceTouchUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		719554E820101E2A00F781B3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0920;
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = "Mattias te Wierik";
+				TargetAttributes = {
+					719554EF20101E2A00F781B3 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					7195550320101E2A00F781B3 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 719554EF20101E2A00F781B3;
+					};
+					7195550E20101E2A00F781B3 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 719554EF20101E2A00F781B3;
+					};
+				};
+			};
+			buildConfigurationList = 719554EB20101E2A00F781B3 /* Build configuration list for PBXProject "recognizeForceTouch" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 719554E720101E2A00F781B3;
+			productRefGroup = 719554F120101E2A00F781B3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				719554EF20101E2A00F781B3 /* recognizeForceTouch */,
+				7195550320101E2A00F781B3 /* recognizeForceTouchTests */,
+				7195550E20101E2A00F781B3 /* recognizeForceTouchUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		719554EE20101E2A00F781B3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				719554FE20101E2A00F781B3 /* LaunchScreen.storyboard in Resources */,
+				719554FB20101E2A00F781B3 /* Assets.xcassets in Resources */,
+				719554F920101E2A00F781B3 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7195550220101E2A00F781B3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7195550D20101E2A00F781B3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		719554EC20101E2A00F781B3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				719554F620101E2A00F781B3 /* ViewController.swift in Sources */,
+				719554F420101E2A00F781B3 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7195550020101E2A00F781B3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7195550920101E2A00F781B3 /* recognizeForceTouchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7195550B20101E2A00F781B3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7195551420101E2A00F781B3 /* recognizeForceTouchUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		7195550620101E2A00F781B3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 719554EF20101E2A00F781B3 /* recognizeForceTouch */;
+			targetProxy = 7195550520101E2A00F781B3 /* PBXContainerItemProxy */;
+		};
+		7195551120101E2A00F781B3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 719554EF20101E2A00F781B3 /* recognizeForceTouch */;
+			targetProxy = 7195551020101E2A00F781B3 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		719554F720101E2A00F781B3 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				719554F820101E2A00F781B3 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		719554FC20101E2A00F781B3 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				719554FD20101E2A00F781B3 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		7195551620101E2A00F781B3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		7195551720101E2A00F781B3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7195551920101E2A00F781B3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = recognizeForceTouch/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = nl.mattle.recognizeForceTouch;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		7195551A20101E2A00F781B3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = recognizeForceTouch/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = nl.mattle.recognizeForceTouch;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		7195551C20101E2A00F781B3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = recognizeForceTouchTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = nl.mattle.recognizeForceTouchTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/recognizeForceTouch.app/recognizeForceTouch";
+			};
+			name = Debug;
+		};
+		7195551D20101E2A00F781B3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = recognizeForceTouchTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = nl.mattle.recognizeForceTouchTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/recognizeForceTouch.app/recognizeForceTouch";
+			};
+			name = Release;
+		};
+		7195551F20101E2A00F781B3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = recognizeForceTouchUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = nl.mattle.recognizeForceTouchUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = recognizeForceTouch;
+			};
+			name = Debug;
+		};
+		7195552020101E2A00F781B3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = recognizeForceTouchUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = nl.mattle.recognizeForceTouchUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = recognizeForceTouch;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		719554EB20101E2A00F781B3 /* Build configuration list for PBXProject "recognizeForceTouch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7195551620101E2A00F781B3 /* Debug */,
+				7195551720101E2A00F781B3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7195551820101E2A00F781B3 /* Build configuration list for PBXNativeTarget "recognizeForceTouch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7195551920101E2A00F781B3 /* Debug */,
+				7195551A20101E2A00F781B3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7195551B20101E2A00F781B3 /* Build configuration list for PBXNativeTarget "recognizeForceTouchTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7195551C20101E2A00F781B3 /* Debug */,
+				7195551D20101E2A00F781B3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7195551E20101E2A00F781B3 /* Build configuration list for PBXNativeTarget "recognizeForceTouchUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7195551F20101E2A00F781B3 /* Debug */,
+				7195552020101E2A00F781B3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 719554E820101E2A00F781B3 /* Project object */;
+}

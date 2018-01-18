@@ -9,16 +9,18 @@ Beschrijf concrete aspecten van de samenwerking, geef aan in hoeverre je daar te
 
 ### Vorige week
 Wat wilde je vorige week ook alweer verbeteren en in hoeverre is dit gelukt? 
-> Vorige week zijn er onzekerheden ontstaan aan de hand van de conceptenpresentatie. Deze week hebben wij concepten verder verduidelijkt en om gegooid om deze unieker en beter te maken. Hierin zijn wij op een goede weg gekomen.
+> Vorige week kwam het punt naar boven dat ik heel graag meer verheldering wilde hebben in wat wij moeten opleveren. Dit is voor een heel groot gedeelte gelukt. Zo ben ik erachter gekomen dat wij dus geen echte app mogen opleveren maar meer kleine pocjes of snippets die bewezen zijn getest aan de hand van ideeën en onderzoeksvragen. Voor het uiteindelijke doel en hoe zijn er nog wel vragen. Hier ik heb ik goede zekerheid voor dat dit de komende weken duidelijker wordt.
 
 ### Afgelopen week
 
 1. Wat ging er afgelopen week goed?
-> Nadat de groep even in mineur was door de concepten presentatie zijn wij hard aan de slag gegaan om alles te verhelderen. Ook zijn wij begonnen aan een functioneel ontwerp waarbij ik projectgenoten van andere domeinen informatie heb kunnen bijbrengen over usecases en functionele requirements. Dit werd zeer gewaardeerd en waarde aan gehecht. Ook kwamen zij tot de conclusie dat er verschillende perspectieven zijn om deze deliverables te maken en op te stellen, maar uit eindelijk wel om hetzelfde resultaat draaien. Wij hebben hier als groep erg goed in samen gewerkt.
+> Op de maandag zijn wij langs uitzendbureaus geweest. Hierin ben ik actief bezig geweest met ondervragen en het opzoek gaan naar antwoorden op onze vragenlijst. Dit vond ik zeer goed gaan en heb hiervoor ook complimenten gehad van verschillende uitzendbureaus voor professionaliteit.
 
 2. Wat ging er niet goed, waar heb je je aan geërgerd, wat moet er niet meer gebeuren?
-> Waar ik zelf een beetje meer onzekerheid om krijg is de rol van de projectleider. Het is lastig om met deze persoon op een lijn te komen in hoe het project het beste geleid moet worden. Ik mis hierbij communicatie vanuit beide kanten over de gedane werkzaamheden en dat er maar eenzeidig een plan wordt opgesteld. Dit vind ik jammer.
+> Deze week heb ik door een miscommunicatie een aanvaring met een mede projectlid. Dit vond ik vervelend om te hebben en wil ik in de toekomst voorkomen door beter te luisteren. Binnen deze situatie hebben wij elkaar een half uurtje met rust gelaten en heb ik daarna de betreffende persoon appart genomen om hem mijn excuses aan te bieden. Dit vond hij zeer professioneel en daarmee was het ook afgedaan. De oplossing is dus wel positief te noemen en bewijst dat ik adequaat om kan gaan met problemen in communicatie.
+> 
+> Na de conceptenpresentatie zijn er veel onzekerheden bijgekomen hierin moet ik dus een weg in zoeken hoe wij dingen verder gaan aanpakken en zo niet concepten omgooien. Dit levert dus voor onzekerheden op waar ik niet goed mee weet om te gaan.
  
 3. Wat ga je komende proberen te verbeteren?
-> Ik wil volgende week graag een feedback ronde aftrappen om te kijken of er irritaties kunnen weggenomen worden. Ik denk dat hierin het groepsproces in kan verbeterd worden.
+> Komende week wordt het van belang om de onzekerheden van de conceptenpresentatie weg te nemen. Dit wil ik dan ook volgende week samen met mijn projectgroep gaan doen.
 
